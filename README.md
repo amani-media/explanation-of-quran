@@ -28,19 +28,24 @@ Most explanations of the quran are available in PDF that isn't searchable, propr
 
 To this end, we have a few principles to ensure accessibility. Content should be
 
-a. Text in favour of images
-b. Where images are necessary (e.g. they illustrate a concept), then it should be well annotated
-c. Screen reader friendly
-d. Easy to reference
+<ol type="a">
+  <li>Text in favour of images</li>
+  <li>Where images are necessary (e.g. they illustrate a concept), then it should be well annotated</li>
+  <li>Screen reader friendly</li>
+  <li>Easy to reference</li>
+</ol>
+
 
 ## Structured
 
 Rather than transcribing "blobs" of text. We have an opportunity to make Tafsir structured. Examples include:
 
-a. Tagging narrators
-b. Tagging verses from the Quran and Hadith
-c. Having clear and easy to understand file structures
-d. Traceable - this helps others verify how accurate translations into other languages are
+<ol type="a">
+  <li>Tagging narrators</li>
+  <li>Tagging verses from the Quran and Hadith</li>
+  <li>Having clear and easy to understand file structures</li>
+  <li>Traceable - this helps others verify how accurate translations into other languages are</li>
+</ol>
 
 ## Consumable
 
@@ -61,5 +66,5 @@ Pull requests are welcome.
 
 # Ideas and Feedback
 
-Please freel free to raise an issue and share any ideas you have.
+Please freel free to raise an issue and share any ideas or feedback you have.
 
